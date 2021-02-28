@@ -1,0 +1,1 @@
+Views will contain all the files related to the functioning of all the tabs in navigation bar of the main page.
